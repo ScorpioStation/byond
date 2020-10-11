@@ -1,0 +1,16 @@
+{
+    "name": "scorpiostation-byond",
+    "version": "1.0.0",
+    "description": "Create Docker images for BYOND",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ScorpioStation/byond.git"
+    },
+    "author": "Patrick Meade <blinkdog@protonmail.com>",
+    "license": "AGPL-3.0-or-later",
+    "dependencies": {
+        "coffeescript": "2.5.1",
+        "got": "11.7.0",
+        "lodash": "4.17.20"
+    }
+}
